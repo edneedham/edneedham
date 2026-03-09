@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ed
 
-<!--
-**edneedham/edneedham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer building reliable systems.
 
-Here are some ideas to get you started:
+Currently building: 
+- Agentic shopping experiences
+- Real-time web applications (React + Node)
+- Systems for logistics and industry with international standards
+- Tooling for transparency and trust in Argentina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AgentF: An agentic shopping experience (🤫 I can't say more).
+- Cred: A local-first credential manager that syncs to common platforms (GitHub, Vercel, etc.).
+- Remitos: An Android mobile app that uses GS1 standardisation for logistics processing in Argentina.
+- Wi-suck: A cli for monitoring ISP services that displays latency and bandwidth over time.
+- X2Y: A cli for converting between markup files (JSON, TOML, YAML).
+ 
+## Tech
+- Rust, React, Node, PostgreSQL, TypeScript.
