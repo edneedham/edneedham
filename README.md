@@ -2,10 +2,26 @@
 
 Full-stack engineer building production systems in Go, TypeScript, Kotlin and PostgreSQL.
 
-Currently:
-- Building a B2B logistics platform used in day-to-day transport operations.
-- Developing Android and cloud-based systems that automate document processing and operational workflows.
-- Exploring systems programming and developer tooling in Rust.
+## Professional Work
+
+### ROASAL
+Full-stack engineer building software for logistics and transport operations.
+
+- B2B logistics platform (Go, Next.js, PostgreSQL, Docker)
+- Backend APIs and cloud services
+- Operational workflow automation
+
+Website: https://roasal.com.ar
+
+### En Punto
+Android application for digitising delivery documentation using OCR and cloud processing.
+
+- Kotlin
+- Google Cloud Vision
+- Cloud Run
+- Document workflow automation
+
+Website: https://enpunto.com.ar
 
 ## Selected Projects
 
