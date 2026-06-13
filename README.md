@@ -1,17 +1,29 @@
 # Hi, I'm Ed
 
-I'm a software developer building reliable systems.
+Full-stack engineer building production systems in Go, TypeScript, Kotlin and PostgreSQL.
 
-Currently building: 
-- Real-time web applications.
-- Systems for logistics and industry with international standards.
-- Tooling for transparency and trust in Argentina.
+Currently:
+- Building a B2B logistics platform used in day-to-day transport operations.
+- Developing Android and cloud-based systems that automate document processing and operational workflows.
+- Exploring systems programming and developer tooling in Rust.
 
-## Projects
-- Cred: A local-first credential manager that syncs to common platforms (GitHub, Vercel, etc.).
-- Remitos: An Android mobile app that adheres to GS1 standards for logistics processing in Argentina.
-- Wi-suck: A cli for monitoring ISP services that displays latency and bandwidth over time.
-- X2Y: A cli for converting between markup files (JSON, TOML, YAML).
- 
-## Tech
-- Rust, React, Node, PostgreSQL, TypeScript.
+## Selected Projects
+
+### Cred
+Local-first encrypted secrets manager built in Rust using ChaCha20-Poly1305.
+
+### x2y
+CLI tool for converting between JSON, TOML and YAML formats.
+
+### Wi-suck
+Network monitoring CLI that tracks latency and bandwidth over time.
+
+## Technologies
+
+**Backend:** Go, Node.js, REST APIs, PostgreSQL
+
+**Frontend:** React, Next.js, TypeScript, Tailwind
+
+**Cloud & DevOps:** Docker, GitHub Actions, Google Cloud Platform
+
+**Other:** Kotlin, Rust
