@@ -1,6 +1,6 @@
 # Hi, I'm Ed
 
-Full-stack engineer building production systems in Go, TypeScript, Kotlin and PostgreSQL.
+I am building production systems in Go, TypeScript, Kotlin and PostgreSQL.
 
 ## Professional Work
 
