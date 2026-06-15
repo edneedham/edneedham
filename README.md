@@ -1,4 +1,4 @@
-# Hi, I'm Ed 👋
+# Hi, I'm Ed
 
 I am a full-stack engineer building high-impact production systems in Go, TypeScript, Kotlin, and PostgreSQL.
 
