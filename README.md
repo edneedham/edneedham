@@ -1,45 +1,37 @@
-# Hi, I'm Ed
+# Hi, I'm Ed 👋
 
-I am building production systems in Go, TypeScript, Kotlin and PostgreSQL.
+I am a full-stack engineer building high-impact production systems in Go, TypeScript, Kotlin, and PostgreSQL.
 
 ## Professional Work
 
-### ROASAL
-Full-stack engineer building software for logistics and transport operations.
+### ROASAL S.A.S — Full-Stack Engineer (Remote, UK-Based)
+Building a mobile and web-based logistics ecosystem to digitize transport operations and automate document processing.
 
-- B2B logistics platform (Go, Next.js, PostgreSQL, Docker)
-- Backend APIs and cloud services
-- Operational workflow automation
+* **Logistics Mobile & Web Ecosystem:** Developed a Kotlin Android application (**En Punto**) integrated with Google Cloud Vision OCR to digitize delivery documentation, reducing manual data entry by up to 80%. 
+* **Operations Dashboard:** Engineered an accompanying web-based management dashboard in Next.js, TypeScript, and Tailwind to track real-time delivery metrics and manage operations[cite: 1].
+* **Backend & Infrastructure:** Designed a scalable RESTful API in Go (Echo), featuring secure JWT (RSA) authentication, role-based access control (RBAC), and transactional PostgreSQL storage[cite: 1]. Deployed via Docker with full CI/CD automation[cite: 1].
 
-Website: https://roasal.com.ar
-
-### En Punto
-Android application for digitising delivery documentation using OCR and cloud processing.
-
-- Kotlin
-- Google Cloud Vision
-- Cloud Run
-- Document workflow automation
-
-Website: https://enpunto.com.ar
+Company Website: [roasal.com.ar](https://roasal.com.ar) | App Website: [enpunto.com.ar](https://enpunto.com.ar)
 
 ## Selected Projects
 
-### Cred
-Local-first encrypted secrets manager built in Rust using ChaCha20-Poly1305.
+### 🔑 Cred
+Local-first encrypted secrets manager built in Rust using ChaCha20-Poly1305[cite: 1].
+* *Repo:* [github.com/edneedham/cred](https://github.com/edneedham/cred)
 
-### x2y
-CLI tool for converting between JSON, TOML and YAML formats.
+### 🔄 x2y
+Fast CLI serializer for converting between JSON, TOML, and YAML formats built in Rust[cite: 1].
+* *Repo:* [github.com/edneedham/x2y](https://github.com/edneedham/x2y)
 
-### Wi-suck
-Network monitoring CLI that tracks latency and bandwidth over time.
+### 📡 Wi-suck
+Network monitoring CLI tool that tracks latency and bandwidth performance over time.
 
 ## Technologies
 
-**Backend:** Go, Node.js, REST APIs, PostgreSQL
+**Backend:** Go, Node.js, REST APIs, PostgreSQL[cite: 1]
 
-**Frontend:** React, Next.js, TypeScript, Tailwind
+**Frontend & Mobile:** Next.js, React, TypeScript, Tailwind, Kotlin[cite: 1]
 
-**Cloud & DevOps:** Docker, GitHub Actions, Google Cloud Platform
+**Cloud & DevOps:** Docker, GitHub Actions (CI/CD), Google Cloud Platform (Vision, Cloud Run, Storage)[cite: 1]
 
-**Other:** Kotlin, Rust
+**Other:** Rust[cite: 1]
