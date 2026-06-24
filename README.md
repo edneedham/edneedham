@@ -1,10 +1,7 @@
 # Hi, I'm Ed 
 
-### ROASAL S.A.S
-
-* **Logistics Mobile & Web Ecosystem:** Developed a Kotlin Android application (**En Punto**) integrated with Google Cloud Vision OCR to digitize delivery documentation, reducing manual data entry by up to 80%. 
-* **Operations Dashboard:** Engineered an accompanying web-based management dashboard in Next.js, TypeScript, and Tailwind to track real-time delivery metrics and manage operations.
-* **Backend & Infrastructure:** Designed a scalable RESTful API in Go (Echo), featuring secure JWT (RSA) authentication, role-based access control (RBAC), and transactional PostgreSQL storage. Deployed via Docker with full CI/CD automation.
+### ROASAL S.A.S - Software Engineer
+Logistics infrastructure in Argentina.
 
 Company Website: [roasal.com.ar](https://roasal.com.ar) | App Website: [enpunto.com.ar](https://enpunto.com.ar)
 
