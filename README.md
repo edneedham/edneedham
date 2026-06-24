@@ -5,6 +5,8 @@ Logistics infrastructure in Argentina.
 
 Company Website: [roasal.com.ar](https://roasal.com.ar) | App Website: [enpunto.com.ar](https://enpunto.com.ar)
 
+---
+
 ### 🔑 Cred
 Local-first encrypted secrets manager built in Rust using ChaCha20-Poly1305.
 * *Repo:* [github.com/edneedham/cred](https://github.com/edneedham/cred)
